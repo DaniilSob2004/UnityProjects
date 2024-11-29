@@ -16,7 +16,7 @@ HW_5:
   - ![1](https://github.com/user-attachments/assets/65a91449-56f0-4d41-87ab-2e9d009a047b)
 
 HW_4:
-  - ![1](https://github.com/user-attachments/assets/d2ebe168-a939-40cc-904e-7e22c8a443b6)
+  - ![1](https://github.com/user-attachments/assets/4e5c0fbb-e41a-42c8-b0e2-1902594e4a99)
 
 HW_3:
   - ![0](https://github.com/user-attachments/assets/6e62b3f1-defa-47b1-b970-a4a16c24dba2)
