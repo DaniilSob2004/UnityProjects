@@ -1,7 +1,7 @@
 HW_7:
-  - ![1](https://github.com/user-attachments/assets/43b06309-829e-47ed-8ec6-7c152f60a5bf)
-  - ![2](https://github.com/user-attachments/assets/e8343e1f-eaa2-49b0-8c11-62784067a594)
-  - ![3](https://github.com/user-attachments/assets/f5ece680-3567-41c2-9ebb-049eb5489e21)
+  - ![1](https://github.com/user-attachments/assets/9c8214fa-b585-4927-b5bc-23876807f945)
+  - ![2](https://github.com/user-attachments/assets/a1a22d32-a5df-4a98-9a58-c9a484a077b2)
+  - ![3](https://github.com/user-attachments/assets/31badeb9-d6e7-47e1-b71f-bbbea76b13df)
 
 HW_6:
   - ![1](https://github.com/user-attachments/assets/3ea3101e-c813-4f7c-9371-2abc2ea1b1d5)
