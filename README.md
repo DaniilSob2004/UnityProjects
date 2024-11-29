@@ -24,9 +24,9 @@ HW_3:
   - ![2](https://github.com/user-attachments/assets/466baf82-04b0-47a0-88ad-e0e07e326663)
 
 HW_2:
-  - ![1](https://github.com/user-attachments/assets/2a7f20ff-7a4b-4460-b00f-0bf8cdc04752)
-  - ![2](https://github.com/user-attachments/assets/0d820fe4-b3a8-4a13-b740-b572e4a29d0a)
-  - ![3](https://github.com/user-attachments/assets/ad5b8700-d7f8-45bc-b4bc-fb1753d86fa0)
+  - ![1](https://github.com/user-attachments/assets/d0a8c096-725f-4043-b968-31108c3b5baf)
+  - ![2](https://github.com/user-attachments/assets/ba2e6f99-80b8-4b61-b448-f5cff7d9e18b)
+  - ![3](https://github.com/user-attachments/assets/0a14c274-ec8e-4581-95f2-67baf4d4e158)
 
 HW_1: 
   - ![1](https://github.com/user-attachments/assets/691b7a49-a64f-46f8-8da4-8b56a7d34ecf)
