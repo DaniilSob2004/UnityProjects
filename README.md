@@ -4,13 +4,13 @@ HW_7:
   - ![3](https://github.com/user-attachments/assets/f5ece680-3567-41c2-9ebb-049eb5489e21)
 
 HW_6:
-  - ![1](https://github.com/user-attachments/assets/9b140f4d-94fc-4c74-aeed-b940bca3c5e8)
-  - ![2](https://github.com/user-attachments/assets/721e727a-93b0-4d21-83ed-111d15fcea84)
-  - ![3](https://github.com/user-attachments/assets/b48ebc0e-0dc4-488b-8310-dbc02a56bef3)
-  - ![4](https://github.com/user-attachments/assets/4c5270e4-be58-44f3-8645-8d60db735e3f)
-  - ![5](https://github.com/user-attachments/assets/17c78a31-6364-4a03-bca4-f66ada42022f)
-  - ![6](https://github.com/user-attachments/assets/edd0c78f-7a25-4ad9-aa2e-08525f4d0bb1)
-  - ![7](https://github.com/user-attachments/assets/a01cdbbe-3f07-412c-8a1e-bca51c9e79bb)
+  - ![1](https://github.com/user-attachments/assets/3ea3101e-c813-4f7c-9371-2abc2ea1b1d5)
+  - ![2](https://github.com/user-attachments/assets/1dfb685f-078e-45d1-91ac-a4468dd39b7e)
+  - ![3](https://github.com/user-attachments/assets/1b41c32d-18fa-455f-82b3-49f5be1f2ea5)
+  - ![4](https://github.com/user-attachments/assets/564f2456-ef42-482f-9773-0057b48bf6ff)
+  - ![5](https://github.com/user-attachments/assets/293c69b2-2a5a-48af-95b2-719ccb32d372)
+  - ![6](https://github.com/user-attachments/assets/0cf0b573-819a-4b18-853e-70c5bc7ccf65)
+  - ![7](https://github.com/user-attachments/assets/08eb189c-c5d1-44cd-9e9b-4e9f9ce0a97e)
 
 HW_5:
   - ![1](https://github.com/user-attachments/assets/b7c59893-4f75-4015-a444-8dacc35a7c62)
