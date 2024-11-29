@@ -29,4 +29,4 @@ HW_2:
   - ![3](https://github.com/user-attachments/assets/ad5b8700-d7f8-45bc-b4bc-fb1753d86fa0)
 
 HW_1: 
-  - ![1](https://github.com/user-attachments/assets/544cdaf0-41ca-47fd-a959-b727446efe16)
+  - ![1](https://github.com/user-attachments/assets/691b7a49-a64f-46f8-8da4-8b56a7d34ecf)
