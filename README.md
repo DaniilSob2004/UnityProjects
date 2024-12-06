@@ -1,3 +1,8 @@
+HW_9:
+  - ![1](https://github.com/user-attachments/assets/aeadaf7f-f227-464f-aeb7-702143a252ab)
+  - ![2](https://github.com/user-attachments/assets/b2693b7c-453b-495a-89d4-2be2cc2ab6c6)
+  - ![3](https://github.com/user-attachments/assets/c56d902a-cc5e-4219-871d-5481048e063b)
+
 HW_8:
   - ![1](https://github.com/user-attachments/assets/aded4f83-d615-4066-a2c1-ed9e2e2bce96)
   - ![2](https://github.com/user-attachments/assets/00f47a73-22bc-45c9-b261-7bd0c30adfb7)
